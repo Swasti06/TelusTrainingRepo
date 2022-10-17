@@ -6,6 +6,8 @@ import org.apache.commons.logging.LogFactory;
 
 public class Applicant {
 	
+	//comment here
+	
 	Log logger=LogFactory.getLog(Applicant.class);
 	
 	public String dlEligibility() throws InvalidAge, PoliceVerification, MedicalVerification {
